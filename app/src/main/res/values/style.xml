@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define a style for TextInputLayout -->
+    <style name="MyTextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:textColorHint">@color/pink</item>
+        <item name="hintTextColor">@color/pink</item>
+    </style>
+
+
+</resources>
